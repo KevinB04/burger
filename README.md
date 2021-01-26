@@ -5,7 +5,6 @@
  ## Table of Contents
    - [Description](#description)
    - [Installation](#installation)
-   - [Usage](#usage)
    - [Credits](#credits)
    - [Contributions](#Contributions)
    - [License](#license)
@@ -15,10 +14,6 @@
 
   ## Installation
   You are welcome to clone this repository. Run `git clone git@github.com:KevinB04/note-taker.git`
-
-  ## Usage
-
-  
 
   ## Credits
   * [Shields.io](https://shields.io/)
