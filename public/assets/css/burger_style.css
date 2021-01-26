@@ -1,19 +1,57 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
+html {
+  background-color: #FFC04C;
+}
+
+#img{
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-size: 12px;
+  background-color: #FFC04C;
+}
+
+#burgerName {
+  padding: 30px;
+}
+
+#createBurger {
+  display: flex;
+  padding: 10px;
+}
+
+.submit {
+  justify-content: center;
+}
+
+
+.burgerList {
+  font-size: 24px;
+  margin-right: 16px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.devour-form {
+  display: flex;
+  padding: 0px;
+  margin: 5px;
+  justify-content: center;
+  align-content: flex-start;
+  flex-wrap: nowrap;
+  border: 0;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.col-xs-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
